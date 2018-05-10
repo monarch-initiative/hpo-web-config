@@ -1,0 +1,33 @@
+{
+  "hpo": [
+    {
+      "question": "How is HPO related to the Monarch Initiative?",
+      "answer": "<p>The HPO is the clinical window of the <a href=\"https://monarchinitiative.org/\" target=\"__blank\">Monarch Initiative</a> which is an NIH supported project that integrates, aligns, and re-distributes cross-species gene, genotype, variant, disease, and phenotype data. <a href=\"https://monarchinitiative.org/\" target=\"__blank\">The Monarch Browser</a> allows users to browse not only human diseases but to see their links to other organisms, genes, phenotypes, and pathways, which may be of especial interest to translational researchers.</p>"
+    },
+    {
+      "question": "Am I allowed to change the contents of HPO?",
+      "answer": "<p>The HPO is a community-driven project. We request that all proposed changes be suggested on our <a target=\"__blank\" href=\"https://github.com/obophenotype/human-phenotype-ontology/issues\">GitHub tracker</a> so that they will be of use to all users of the HPO. </p>"
+    },
+    {
+      "question": "How to collaborate with the HPO?",
+      "answer": "<p>We welcome the participation of interested colleagues. We anticipate that the structure of the HPO will continue to be refined and completed for some time to come. Groups or persons with expert knowledge in a particular domain of human phenotyping in a medical genetics setting are invited to contribute their knowledge on a collaborative basis. Please contact us to discuss details.</p> <p>We are currently transitioning from annotations derived in a semiautomated fashion from the OMIM database to manually curated annotations. Given the number of human hereditary diseases, this is no small task. We encourage participation of colleagues with an interest in specific hereditary diseases to improve the annotations for ‘their’ disease. Please get in contact with us to discuss this form of collaboration. We are also preparing an online system for manual annotations.</p> <p>The issue tracker is <a href=\"https://github.com/obophenotype/human-phenotype-ontology/issues\" target=\"__blank\">available on Github.</a></p><h4>Collaborations for translations</h4> <p>We are working with several people to translate more content of HPO into a multitude of languages. Several translations are being actively developed at the moment (e.g. german).</p><p>The translations are considered a project coordinated by the HPO team and are hosted on <a href=\"https://github.com/Phenomics/HPO-translations\" target=\"__blank\">GitHub</a>. Please do not start translating HPO content without contacting us beforehand.This might cause duplicated translations and other problems. </p> <p> Please contact us <a routerLink=\"/contact\">here</a>.</p>"
+    }
+  ],
+  "general": [
+    {
+      "question": "What is an ontology?",
+      "answer": "<p>A terminology contains a list of items (often called "terms") that represent the concepts of a domain. An ontology is a terminology that additionally specifies formal semantic relationships of concepts. For instance, a terminology of wines would include a list of items such as Chardonnay, Cabernet Sauvignon, Rioja, Riesling, Sauvignon blanc, etc., but an ontology of wine might have a term for "red wine" and "Rioja"; It also can specify that "Rioja" is a type of "red wine". Ontologies and terminologies can be used as tools for standardizing and exchanging data. Ontologies such as the HPO typically enable sophisticated computational algorithms that exploit the semantic relations between terms. </p>"
+    }
+  ],
+  "annotation":[
+  {
+    "question": "How do I use HPO Annotations?",
+    "answer": "<p>The terms of the HPO describe phenotypic abnormalities and do not directly describe diseases. Instead, the HPO project uses so-called annotations to describe the connection between diseases and HPO terms. For instance, the disease, <a routerLink=\"/browse/disease/ORPHA:171719\">Cutis laxa-Marfanoid syndrome </a> is annotated by the HPO terms for <a routerLink=\"/browse/term/HP:0002827\">Hip dislocation</a>, <a routerLink=\"/browse/term/HP:0001371\">Flexion contracture</a> and many more.</p>"
+  },
+  {
+    "question": "
+  
+  
+  ]
+
+}
