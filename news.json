@@ -1,48 +1,62 @@
 {
-  "June 2018": [
-    {
-      "title": "Easy-to-use and secure deep phenotyping",
-      "date": "June 17, 2018",
-      "body": "Today we would like to inform you about <a href=\"https://phenotero.github.io/aboutme/\" target=\"__blank\"><i>Phenotero</i></a>.<br><br>The rationale behind _Phenotero_ is that in precision medicine, especially in clinical genetics, the Human Phenotype Ontology (HPO) as well as disease ontologies like the Orphanet Rare Disease Ontology (ORDO) or Medical Subject Headings (MeSH) are often used for ‘deep phenotyping’ of patients and coding of clinical diagnoses. This is especially important because it allows for streamlining of clinic workflow and efficient data entry, and will subsequently promote clinical and molecular diagnosis, remove ambiguousness from manuscripts, and enable sharing of anonymised patient phenotype data with ultimate goal of a better understanding of diseases.<br><br>However, the process of assigning ontology classes to patient descriptions is often disconnected from the process of writing patient reports or manuscripts in word processing software such as Microsoft Word or LibreOffice. This additional workload and the requirement to install dedicated software (e.g. <a href=\"https://phenotips.org/\" target=\"__blank\">PhenoTips</a>) may discourage usage of ontologies for parts of the target audience. Retrospectively applied text-mining suffers from inaccuracies, noise, and privacy constraints.<br><br>To improve this situation, we developed _Phenotero_, a freely available and simple solution to annotate patient phenotypes and diseases at the time of writing clinical reports or manuscripts. We adopt <a href=\"https://www.zotero.org/\" target=\"__blank\">Zotero</a>, a well-established, actively developed citation management software to generate a tool which allows to reference classes from ontologies within clinical reports or manuscripts at the time of writing. In case you are interested in learning more about _Phenoteros_ key features, you can find our manuscript as a preprint at [https://doi.org/10.1101/324053](https://doi.org/10.1101/324053) or more information on the website <a href=\"https://phenotero.github.io/aboutme/\" target=\"__blank\">phenotero.github.io</a>. <br><br><br><br>Please contact sebastian.koehler@charite.de with questions or comments.",
-      "teaserTitle": "Tool for easy clinical phenotyping"
+      "July 2018": [
+        {
+          "title": "July 2018 release",
+          "date": "July 25, 2018",
+          "body": "There is a new release available. We thank all our users for their valuable suggestions and additions. The HPO Team",
+          "teaserTitle": "July 2018 release"
+        }
+     ],
+	"June 2018": [
+        {
+          "title": "June 2018 release",
+          "date": "June 13, 2018",
+          "body": "We just made a new release for June, 2018. Please continue to file issues on our github tracker.<br><br><br>Thanks,<br>The HPO Team",
+          "teaserTitle": "June 2018 release"
+        }
+     ],
+      "May 2018": [
+        {
+          "title": "New HPO Annotation File Format",
+          "date": "May 3, 2018",
+          "body": "The HPO project is transitioning to a new annotation file format in 2018, and we are requesting comments, suggestions, and other feedback prior to making the switch.<br>The current annotation format dates back to the early days of the HPO project in 2009 and needed some minor improvements to be able to capture more metadata about the phenotypic abnormalities that characterize disease.<br>The 2009-present format is described here http://human-phenotype-ontology.github.io/documentation.html#annot<br>The new 2018-onwards format is described here: <br>http://hpo-annotation-qc.readthedocs.io/en/latest/annotationFormat.html#new-and-old-big-file-formats<br><br>The main differences are <br><br>1. The frequency field is now strictly constrained to have one of three formats: HP:0003577 (a term from the frequency subontology) or 12/45 or 22% <br>2. There is a field that can indicate sex-limited phenotypes<br>3. There is a field that can be used to record terms from the HPO ClLinical modifier subontology (e.g., 'bilateral' or 'transient')<br>4. The Aspect field has been updated to reflect the fact that annotations can come out of the subontologies Phenotypic abnormality, Inheritance, Clinical course, or Clinical Modifier. <br><br>The new annotation file is located on our <a href='http://compbio.charite.de/jenkins/job/hpo.annotations.2018/'>Jenkins server</a> and is called phenotype.hpoa.<br>Feedback on the format is welcome. We also welcome feedback on the question whether the practice of having a separate file for negative (NOT) phenotype annotations should be maintained, since we are considering putting all information in one file (the negative lines have a NOT in column 4 in both new and old formats).<br><br>Please contact peter.robinson@jax.org with questions or comments.",
+          "teaserTitle": "New HPO Annotation File Format"
+        },
+        {
+          "title": "Easy-to-use and secure deep phenotyping",
+          "date": "May 17, 2018",
+          "body": "Today we would like to inform you about <a href='https://phenotero.github.io/aboutme/'>Phenotero</a>.<br><br>The rationale behind Phenotero is that in precision medicine, especially in clinical genetics, the Human Phenotype Ontology (HPO) as well as disease ontologies like the Orphanet Rare Disease Ontology (ORDO) or Medical Subject Headings (MeSH) are often used for ‘deep phenotyping’ of patients and coding of clinical diagnoses. This is especially important because it allows for streamlining of clinic workflow and efficient data entry, and will subsequently promote clinical and molecular diagnosis, remove ambiguousness from manuscripts, and enable sharing of anonymised patient phenotype data with ultimate goal of a better understanding of diseases.<br><br>However, the process of assigning ontology classes to patient descriptions is often disconnected from the process of writing patient reports or manuscripts in word processing software such as Microsoft Word or LibreOffice. This additional workload and the requirement to install dedicated software may discourage usage of ontologies for parts of the target audience. Retrospectively applied text-mining suffers from inaccuracies, noise, and often privacy constraints.<br><br>To improve this situation, we developed Phenotero, a freely available and simple solution to annotate patient phenotypes and diseases at the time of writing clinical reports or manuscripts. We adopt Zotero, a well-established, actively developed citation management software to generate a tool which allows to reference classes from ontologies within clinical reports or manuscripts at the time of writing. <br><br><br><br>Please contact sebastian.koehler@charite.de with questions or comments.",
+          "teaserTitle": "Tool for easy clinical phenotyping"
+        }
+      ],
+	"April 2018": [
+        {
+          "title": "Paper on novel annotation model",
+          "date": "April 9, 2018",
+          "body": "For the interested reader - there is a new paper suggesting an extended annotation model, which can help HPO-based similarity calculations. <br><br> It is available via <a href=\"https://academic.oup.com/database/article/doi/10.1093/database/bay026/4953405\" target=\"__blank\" >Database (Oxford)</a>",
+          "teaserTitle": "Novel annotation model"
+        },
+        {
+          "title": "Nature Genetics Paper on layperson vocabulary",
+          "date": "April 9, 2018",
+          "body": "In clinical settings, phenotypic abnormalities are often defined using specialized medical terminology, which can be difficult for patients to understand. This so-called terminology-gap can impede participation of patients and families in research projects concerned with the phenotype or natural history of diseases, and can even make it difficult for patients to understand data from their own medical charts.<br><br> The HPO Project and the Monarch Initiative have therefore “translated” the terms of the HPO into “plain language”. For instance, the term for <i>Macrocephaly</i> can be translated as <i>Large skull</i>. <br><br> This joint project with the Monarch-Initiative, HPO, PCORI, Sanford Medical, and a lot of other contributors on adding layperson synonyms to HPO has now been published in <a href=\"https://www.nature.com/articles/s41588-018-0096-x\">Nature Genetics</a>.",
+          "teaserTitle": "Layperson vocabulary: Nature Genetics"
+        }
+      ],
+      "March 2018": [
+        {
+          "title": "March 2018 release",
+          "date": "March 9, 2018",
+          "body": "We published the March 2018 release of HPO and annotation data. Thanks to all contributors. Please continue to give us feedback and suggestions. <br><br> Thanks, <br><br> The HPO Team",
+          "teaserTitle": "March 2018 Release"
+        }
+      ],
+      "Feburary 2018": [
+        {
+          "title": "HPO mailing list for news announcements",
+          "date": "February 14, 2018",
+          "body": "The HPO team has set up a mailing list, as we feel we can’t reach everybody with posts to our website and/or twitter. Please join the mailing list at <a href=\"https://groups.io/g/human-phenotype-ontology\">https://groups.io/g/human-phenotype-ontology</a> to get the latest news and discussions via mail. <br><br> Thanks, <br><br> The HPO Team",
+          "teaserTitle": "HPO Mailing List"
+        }
+      ]
     }
-  ],
-  "May 2018": [
-    {
-      "title": "New HPO Annotation File Format",
-      "date": "May 3, 2018",
-      "body": "The HPO project is transitioning to a new annotation file format in 2018, and we are requesting comments, suggestions, and other feedback prior to making the switch.<br>The current annotation format dates back to the early days of the HPO project in 2009 and needed some minor improvements to be able to capture more metadata about the phenotypic abnormalities that characterize disease.<br>The 2009-present format is described here http://human-phenotype-ontology.github.io/documentation.html#annot<br>The new 2018-onwards format is described here: <br>http://hpo-annotation-qc.readthedocs.io/en/latest/annotationFormat.html#new-and-old-big-file-formats<br><br>The main differences are <br><br>1. The frequency field is now strictly constrained to have one of three formats: HP:0003577 (a term from the frequency subontology) or 12/45 or 22% <br>2. There is a field that can indicate sex-limited phenotypes<br>3. There is a field that can be used to record terms from the HPO ClLinical modifier subontology (e.g., 'bilateral' or 'transient')<br>4. The Aspect field has been updated to reflect the fact that annotations can come out of the subontologies Phenotypic abnormality, Inheritance, Clinical course, or Clinical Modifier. <br><br>The new annotation file is located on our <a href='http://compbio.charite.de/jenkins/job/hpo.annotations.2018/'>Jenkins server</a> and is called phenotype.hpoa.<br>Feedback on the format is welcome. We also welcome feedback on the question whether the practice of having a separate file for negative (NOT) phenotype annotations should be maintained, since we are considering putting all information in one file (the negative lines have a NOT in column 4 in both new and old formats).<br><br>Please contact peter.robinson@jax.org with questions or comments.",
-      "teaserTitle": "New HPO Annotation File Format"
-    }
-  ],
-  "April 2018": [
-    {
-      "title": "Paper on novel annotation model",
-      "date": "April 9, 2018",
-      "body": "For the interested reader - there is a new paper suggesting an extended annotation model, which can help HPO-based similarity calculations. <br><br> It is available via <a href=\"https://academic.oup.com/database/article/doi/10.1093/database/bay026/4953405\" target=\"__blank\" >Database (Oxford)</a>",
-      "teaserTitle": "Novel annotation model"
-    },
-    {
-      "title": "Nature Genetics Paper on layperson vocabulary",
-      "date": "April 9, 2018",
-      "body": "In clinical settings, phenotypic abnormalities are often defined using specialized medical terminology, which can be difficult for patients to understand. This so-called terminology-gap can impede participation of patients and families in research projects concerned with the phenotype or natural history of diseases, and can even make it difficult for patients to understand data from their own medical charts.<br><br> The HPO Project and the Monarch Initiative have therefore “translated” the terms of the HPO into “plain language”. For instance, the term for <i>Macrocephaly</i> can be translated as <i>Large skull</i>. <br><br> This joint project with the Monarch-Initiative, HPO, PCORI, Sanford Medical, and a lot of other contributors on adding layperson synonyms to HPO has now been published in <a href=\"https://www.nature.com/articles/s41588-018-0096-x\">Nature Genetics</a>.",
-      "teaserTitle": "Layperson vocabulary: Nature Genetics"
-    }
-  ],
-  "March 2018": [
-    {
-      "title": "March 2018 release",
-      "date": "March 9, 2018",
-      "body": "We published the March 2018 release of HPO and annotation data. Thanks to all contributors. Please continue to give us feedback and suggestions. <br><br> Thanks, <br><br> The HPO Team",
-      "teaserTitle": "March 2018 Release"
-    }
-  ],
-  "Feburary 2018": [
-    {
-      "title": "HPO mailing list for news announcements",
-      "date": "February 14, 2018",
-      "body": "The HPO team has set up a mailing list, as we feel we can’t reach everybody with posts to our website and/or twitter. Please join the mailing list at <a href=\"https://groups.io/g/human-phenotype-ontology\">https://groups.io/g/human-phenotype-ontology</a> to get the latest news and discussions via mail. <br><br> Thanks, <br><br> The HPO Team",
-      "teaserTitle": "HPO Mailing List"
-    }
-  ]
-}
