@@ -1,5 +1,14 @@
 {
-      "July 2018": [
+     "October 2018": [
+        {
+          "title": "October 2018 release",
+          "date": "October 9th, 2018",
+          "body": "The HPO team has created a new release for October 2018. Over 120 new classes have been added, and over 150 classes have been obsoleted/replaced. Over 200 new disease entries have been added and thousands of new disease-phenotype associations have been curated.<br>Best,<br>Sebastian, on behalf of the HPO consortium",
+          "teaserTitle": "October 2018 release"
+        }
+     ],
+ 
+     "July 2018": [
         {
           "title": "July 2018 release",
           "date": "July 25, 2018",
