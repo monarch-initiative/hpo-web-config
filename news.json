@@ -2,9 +2,21 @@
      "December 2018": [
         {
           "title": "Phenotero published at Clinical Genetics",
-          "date": "December 20th, 2018",
+          "date": "December 21st, 2018",
           "body": "If you are interested in using HPO or MONDO in Microsoft Word, Google Docs, or any other word processing software, please check out Phenotero at <a href=\"https://phenotero.github.io/aboutme/\" target=\"__blank\" >the Phenotero Website</a> or read the open-access article <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/cge.13471\" target=\"__blank\" >here</a>. ",
-          "teaserTitle": "Clinical phenotyping in Word & Google Docs"
+          "teaserTitle": "Clinical phenotyping in <a href=\"https://phenotero.github.io/aboutme/\" target=\"__blank\" >Word & Google Docs</a>"
+        },
+        {
+          "title": "December 2018 release",
+          "date": "December 21st, 2018",
+          "body": "The HPO team is happy to announce a new release for December 2018. Have a nice holiday season. <br>Best,<br>Sebastian, on behalf of the HPO consortium",
+          "teaserTitle": "December 2018 release"
+        },
+        {
+          "title": "New HPO publication",
+          "date": "December 21st, 2018",
+          "body": "Please read (and also cite) the latest HPO publication in the <a href=\"https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1105/5198478\" target=\"__blank\" >2019 NAR database issue</a>. Thanks to all of you for using and supporting HPO and free + open standards.",
+          "teaserTitle": "HPO NAR publication"
         },
         {
           "title": "4000 completed GitHub issues",
