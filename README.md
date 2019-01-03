@@ -7,6 +7,11 @@ Please follow the format (json) and add/remove news item appropriately. I reccom
 Validator:
 https://jsonformatter.curiousconcept.com/
 
+
+Dates must be in a proper date format.. 
+
+Correct: December 10, 2018 | Incorrect: December 10th, 2018
+
 ## Contributors File
 Static csv file of contributors to the hpo that will populate the table. 
 
