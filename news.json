@@ -1,4 +1,12 @@
 {
+     "February 2019": [
+        {
+          "title": "February 2019 release",
+          "date": "February 16, 2019",
+          "body": "The HPO team has created a new release for February 2019.",
+          "teaserTitle": "February 2019 release"
+        }
+     ],
      "December 2018": [
         {
           "title": "Phenotero published at Clinical Genetics",
@@ -33,7 +41,6 @@
           "teaserTitle": "October 2018 release"
         }
      ],
- 
      "July 2018": [
         {
           "title": "July 2018 release",
