@@ -1,10 +1,10 @@
 {
      "April 2019": [
        {
-         "title": "New HPO Release",
-         "date": "April 15, 2019",
-         "body": "The HPO Team has created a new release for April 2019 ontology & annotations. There is also a new web release with some upgraded features such as LOINC annotations for terms, <a href=\"https://hpo.jax.org/app/help/publications\" target=\"__blank\"> a new way to browse </a> related publications, and minor updates to the term hierarchy. <br><br> Please let us know of any features you would like in the near future on our issue <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br>Regards,<br><br> The HPO Team",
-         "terserTitle": "New HPO-Web 1.5, HP-OBO April"
+         "title": "HPO Web Application Release and Ontology Synchronization",
+         "date": "April 16, 2019",
+         "body": "The HPO Team has a new web release with some upgraded features such as LOINC annotations for terms, <a href=\"https://hpo.jax.org/app/help/publications\" target=\"__blank\"> a new way to browse </a> related publications, and minor updates to the term hierarchy. <br><br> Please let us know of any features you would like in the near future on our issue <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br>Regards,<br><br> The HPO Team",
+         "terserTitle": "HPO-Web 1.5, HP-OBO April"
        },  
        {
          "title": "LOINC2HPO accepted for publication",
