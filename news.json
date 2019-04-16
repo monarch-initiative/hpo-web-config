@@ -11,7 +11,7 @@
          "date": "April 8, 2019",
          "body": "A manuscript that describes our effort in converting LOINC-coded clinical lab tests into HPO terms has been accepted by npj Digital Medicine. The conversion allows one to semantically integrate clinically equivalent lab tests together and aggregate patient phenotypes based on the HPO hierarchy. We demonstrated its applications in generating patient deep phenotyping profiles and biomarker screen with an asthma dataset. For details, refer to the open-access article <a href=\"https://www.biorxiv.org/content/10.1101/519231v1\" target=\"__blank\" >here</a>. ",
          "terserTitle": "Converting lab tests into HPO terms"
-       }
+       },
         {
           "title": "April 2019 release",
           "date": "April 16, 2019",
