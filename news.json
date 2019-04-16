@@ -2,7 +2,7 @@
      "April 2019": [
        {
          "title": "HPO Web Application Release and Ontology Synchronization",
-         "date": "April 16, 2019",
+         "date": "April 15, 2019",
          "body": "The HPO Team has a new web release with some upgraded features such as LOINC annotations for terms, <a href=\"https://hpo.jax.org/app/help/publications\" target=\"__blank\"> a new way to browse </a> related publications, and minor updates to the term hierarchy. <br><br> Please let us know of any features you would like in the near future on our issue <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br>Regards,<br><br> The HPO Team",
          "terserTitle": "HPO-Web 1.5, HP-OBO April"
        },  
@@ -12,6 +12,12 @@
          "body": "A manuscript that describes our effort in converting LOINC-coded clinical lab tests into HPO terms has been accepted by npj Digital Medicine. The conversion allows one to semantically integrate clinically equivalent lab tests together and aggregate patient phenotypes based on the HPO hierarchy. We demonstrated its applications in generating patient deep phenotyping profiles and biomarker screen with an asthma dataset. For details, refer to the open-access article <a href=\"https://www.biorxiv.org/content/10.1101/519231v1\" target=\"__blank\" >here</a>. ",
          "terserTitle": "Converting lab tests into HPO terms"
        }
+        {
+          "title": "April 2019 release",
+          "date": "April 16, 2019",
+          "body": "The HPO team has created a new release. See release announcement <a href=\"https://groups.io/g/human-phenotype-ontology/message/11\" target=\"__blank\" >here</a>.",
+          "teaserTitle": "April 2019 Ontology release"
+        }
      ],
      "February 2019": [
         {
