@@ -1,10 +1,10 @@
 {
      "April 2019": [
 	{
-          "title": "April 2019 Ontology Release",
+          "title": "April 2019 HPO Release",
           "date": "April 16, 2019",
-          "body": "The HPO team has created a new release. See release announcement <a href=\"https://groups.io/g/human-phenotype-ontology/message/11\" target=\"__blank\" >here</a>.",
-          "teaserTitle": "April 2019 Ontology Release"
+          "body": "The HPO team has created a new release of HPO and the disease annotation data. See release announcement <a href=\"https://groups.io/g/human-phenotype-ontology/message/11\" target=\"__blank\" >here</a>.",
+          "teaserTitle": "April 2019 HPO Release"
         },
        {
          "title": "HPO Web Application Release and Ontology Synchronization",
