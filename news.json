@@ -3,7 +3,7 @@
 	{
 		"title": "HPO Web Application 1.6.0",
 		"date": "October 14, 2019",
-		"body": "<p>We are happy to announce we have released hpo-web 1.6.0 over the weekend with new features including frequency, onset, and source for HPO terms associated with a disease.</p> <p> We now have <a href=\"https://hpo.jax.org/api/hpo/docs/\" target=\"__blank\">API documentation</a> for those interested in accessing our data via REST API.</p> <br><br> Please let us know of any features you would like in future releases on our <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br>Regards,<br><br> The HPO Team",
+		"body": "We are happy to announce we have released hpo-web 1.6.0 over the weekend with new features including frequency, onset, and source for HPO terms associated with a disease. <br><br> We now have <a href=\"https://hpo.jax.org/api/hpo/docs/\" target=\"__blank\">API documentation</a> for those interested in accessing our data via REST API. <br><br> Please let us know of any features you would like in future releases on our <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br><br>Regards,<br><br> The HPO Team",
         	"teaserTitle": "HPO Web Application 1.6.0",
 	}
 	],
