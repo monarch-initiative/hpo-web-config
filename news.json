@@ -1,4 +1,12 @@
 {
+	"November 2019": [
+	  {
+		  "title": "November 2019 release",
+		  "date": "November 8, 2019",
+		  "body": "The HPO team has made a new release of HPO, the disease-annotations, and the gene annotations.<br> In total we have added 80 new OMIM entries and added over 2000 new disease annotations. Over 1500 terms now have logical definitions assigned to DOSDP patterns, which will further improve HPOs quality and interoperability with other ontologies.<br><br>Minor changes include a merge of two HPO terms that represented abnormalities in cartilage morphology and the fixing of multiple typos in textual definitions and synonyms.<br><br>If you have further question, please don’t hesitate to contact us.",
+		  "teaserTitle": "November 2019 release"
+	  }
+	],
 	"October 2019": [
 	{
 		"title": "HPO Web Application 1.6.0",
@@ -8,7 +16,7 @@
 	}
 	],
 	"September 2019": [
-	      {
+	    {
 		  "title": "September 2019 release",
 		  "date": "September 16, 2019",
 		  "body": "The HPO team has created a new release for September 2019.",
