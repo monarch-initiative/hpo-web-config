@@ -3,7 +3,7 @@
 	  {
 		  "title": "March 2020 release",
 		  "date": "March 13, 2020",
-		  "body": "The HPO team has made a new release of HPO for March 2020 dated 02/27/20 in the obo. Updates to this web application include mapping of rRNA and tRNA genes and minor usability enhancements. Please check our downloads page as the format for annotations has changed! Suggestions and issues for the website can be reported here https://github.com/TheJacksonLaboratory/hpo-web/issues. If you would like to make a new term request please visit https://github.com/obophenotype/human-phenotype-ontology/issues. Any further questions, please don’t hesitate to contact us.",
+		  "body": "The HPO team has made a new release of HPO for March 2020 dated 02/27/20 in the obo. Updates to this web application include mapping of rRNA and tRNA genes and minor usability enhancements. Please check our downloads page as the format for annotations has changed! Suggestions and issues for the website can be reported here <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">https://github.com/TheJacksonLaboratory/hpo-web/issues</a>. If you would like to make a new term request please visit <a href=\"https://github.com/obophenotype/human-phenotype-ontology/issues\" target=\"__blank\">https://github.com/obophenotype/human-phenotype-ontology/issues</a>. Any further questions, please don’t hesitate to contact us.",
 		  "teaserTitle": "March 2020 release"
 	  }
 	],
