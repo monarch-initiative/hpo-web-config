@@ -1,4 +1,12 @@
 {
+	"June 2020": [
+	  {
+         "title": "June 2020 Release",
+         "date": "June 17, 2020",
+         "body": "Hello All, <br><br>Hope everyone is staying safe during these hard times. Today we have updated the web application with the most recent release of HPO. <br><br>See release announcement <a href=\"https://groups.io/g/human-phenotype-ontology/message/18\" target=\"__blank\" >here</a>. We will have a new feature soon to find intersecting assocations for your hpo terms of interest. <br><br> Regards, <br><br> The HPO Team.",
+         "teaserTitle": "HPO June Release"
+       }
+	],
 	"March 2020": [
 	  {
          "title": "March 2020 release(2) aka the Epilepsome release",
