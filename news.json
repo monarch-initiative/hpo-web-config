@@ -9,7 +9,7 @@
         {
             "title": "HPO Web Application 1.7.0",
             "date": "August 24, 2020",
-            "body": "We are happy to announce we have released hpo-web 1.7.0 over the weekend with new features such as the <a href=\"http://hpo.jax.org/browse/profile-search\" target=\"__blank\" >Profile Search</a>, the August HPO Release, as well as updates to our <a href=\"https://hpo.jax.org/api/hpo/docs/\" target=\"__blank\">API documentation</a> including a new endpoint for our <a href=\"https://github.com/monarch-initiative/MAxO\" target=\"_blank\">Medical Action Ontology (MAxO}</a>. <br><br> Please let us know of any features you would like in future releases on our <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br><br>Regards,<br><br> The HPO Team",
+            "body": "We are happy to announce we have released hpo-web 1.7.0 over the weekend with new features such as the <a href=\"http://hpo.jax.org/app/browse/profile-search\" target=\"__blank\" >Profile Search</a>, the August HPO Release, as well as updates to our <a href=\"https://hpo.jax.org/api/hpo/docs/\" target=\"__blank\">API documentation</a> including a new endpoint for our <a href=\"https://github.com/monarch-initiative/MAxO\" target=\"_blank\">Medical Action Ontology (MAxO}</a>. <br><br> Please let us know of any features you would like in future releases on our <a href=\"https://github.com/TheJacksonLaboratory/hpo-web/issues\" target=\"__blank\">tracker</a>, we look forward to your feedback! <br><br>Regards,<br><br> The HPO Team",
             "teaserTitle": "HPO Web Application 1.7.0"
         },
 	  {
