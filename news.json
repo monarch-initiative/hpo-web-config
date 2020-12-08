@@ -1,5 +1,12 @@
 {
-	"October 2020": [
+	"December 2020": [
+	  {
+         "title": "December 2020 Release",
+         "date": "December 12, 2020",
+         "body": "Dear HPO community, <br><br>we have updated the HPO. <br><br>Please see the release announcement <a href=\"https://groups.io/g/human-phenotype-ontology/message/22\" target=\"__blank\" >here</a>. <br> Best wishes, <br><br> The HPO Team.",
+         "teaserTitle": "HPO October Release"
+       }
+	],"October 2020": [
 	  {
          "title": "October 2020 Release",
          "date": "October 12, 2020",
