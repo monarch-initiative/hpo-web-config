@@ -1,5 +1,12 @@
 {
-	"December 2020": [
+	"January 2021": [
+	  {
+         "title": "New HPO article published",
+         "date": "January 5, 2021",
+         "body": "The latest summary of the HPO development and applications has been published in <a href=\"https://academic.oup.com/nar/article/49/D1/D1207/6017351\" target=\"__blank\" >an article (NAR)</a>. <br><br> The HPO Team.",
+         "teaserTitle": "New HPO article published in Nucleic Acids Research"
+       }
+	],"December 2020": [
 	  {
          "title": "December 2020 Release",
          "date": "December 12, 2020",
