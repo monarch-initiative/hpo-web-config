@@ -17,4 +17,7 @@ Static csv file of contributors to the hpo that will populate the table.
 
 Contact Peter for source of excel sheet.
 
+## Publications File
+Static tsv file of publications related to or contributed by the hpo and monarch teams with category's.
+
 
