@@ -5,6 +5,12 @@
          "date": "April 14, 2022",
          "body": "The latest HPO release is now available. Please see <a href=\"https://groups.io/g/human-phenotype-ontology/message/38\" target=\"__blank\" >here for more details.</a>. <br><br>Thanks, The HPO Team.",
          "teaserTitle": "April 2022 HPO release"
+       },
+       {
+         "title": "HPO annotation files and their PURLs",
+         "date": "April 15, 2022",
+         "body": "Dear HPO users, we provide data files that list associations between disease and HPO classes and between genes and HPO classes. This resource is called HPOA. Due to some changes in our computational pipelines, these files are no longer made available via ci.monarchinitiative.org, but are release via the main HPO github release. It is thus very important that you always use the PURLs (permanent URLs) to download any HPO files. The links for all HPOA files are available at <a href=\"https://hpo.jax.org/app/download/annotation\" target=\"__blank\" >our downloads section.</a> <br>Thanks, The HPO Team.",
+         "teaserTitle": "HPOA release"
        }
 	],
 	"Feburary 2022": [
