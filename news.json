@@ -1,4 +1,12 @@
 {
+	"April 2023": [
+		 {
+         "title": "April 2023 Release & Updates",
+         "date": "April 6, 2023",
+         "body": "The latest HPO release is now available. We have updated the HPOA file format please review carefully. You should now be able to read this file in with csv(tsv) parsers. Additionally, our phenotype_to_genes and genes_to_phenotype files have been brought in sync with our current pipeline which also contain format changes (adding column headers). We do not anticipate future format changes for quite some time. Please feel free to provide feedback on any of our issue trackers. Our future plans involve upgrading the API and the UI look and feel by years end.    <br><br>Thanks, The HPO Team.",
+         "teaserTitle": "April 2023 HPO release & updates"
+       }
+	],
 	"June 2022": [
 		 {
          "title": "June 2022 release of HPO",
