@@ -1,4 +1,12 @@
 {
+		"June 2023": [
+		 {
+         "title": "June 2023 Release & Updates",
+         "date": "June 6, 2023",
+         "body": "The latest HPO release is now available. We have updated the supplemental file formats again please review carefully. Our phenotype_to_genes and genes_to_phenotype have recieved feedback from our previous release and we have brought old columns back. We also now provide a new gene to diseaese file which only contains the g2d that contain phenotype annotations. Our next release will expand this file to contain all known g2d. <br><br>Thanks, The HPO Team.",
+         "teaserTitle": "June 2023 HPO release & updates"
+       }
+	],
 	"April 2023": [
 		 {
          "title": "April 2023 Release & Updates",
