@@ -1,4 +1,12 @@
 {
+	"April 2024": [
+		 {
+         "title": "June 2024 Release",
+         "date": "April 19, 2024",
+         "body": "The latest HPO release is now available. Our annotation generation pipeline has been updated. This release brings more terms and annotations. Our next release of hpo-web will move our services to the cloud! <br><br>Thanks, The HPO Team.",
+         "teaserTitle": "June 2024 HPO release"
+       }
+	],
 		"June 2023": [
 		 {
          "title": "June 2023 Release & Updates",
