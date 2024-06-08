@@ -1,4 +1,12 @@
 {
+	"June 2024": [
+		 {
+         "title": "June 2024 Release",
+         "date": "June 7, 2024",
+         "body": "This release brought breaking changes to our API. We have deprecated the previous HPO API in favor of the new <a href=\"https://ontology.jax.org/\">Ontology Services</a>. The specific ontology API's are responsible for searching of terms, getting a specific term, and traversing the ontology graph. Previously getting the gene and disease associations was also part of this API and that is no longer the case. To get other entities annotated to HP terms please use the <a href=\"https://ontology.jax.org/api/network/docs\">Ontology Annotation Network API</a>. As always if you have any questions do not hesitate to reach out or open a ticket on our trackers!<br><br>Thanks, The HPO Team.",
+         "teaserTitle": "2.0.0 API Breaking Changes"
+       }
+	],
 	"April 2024": [
 		 {
          "title": "April 2024 Release",
