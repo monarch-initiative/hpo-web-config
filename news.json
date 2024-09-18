@@ -1,4 +1,12 @@
 {
+	"September 2024": [
+		 {
+         "title": "September 2024 Updates",
+         "date": "September 18, 2024",
+         "body": "This release brought medical actions to both phenotypes and diseases. This work was made possible by Leigh Carmody and our ontology curation application <a href=\"https://poet.jax.org/\">POET</a>! <br><br>Thanks, The HPO Team.",
+         "teaserTitle": "2.0.4 Medical Actions"
+       }
+	],
 	"June 2024": [
 		 {
          "title": "June 2024 Release",
